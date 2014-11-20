@@ -16,7 +16,7 @@ using namespace std;
 
 
 int main(int argc, char *argv[]){
-
+int david = 5;
 	  string arg1 = "RoadMap.ini";
 	  string arg2 = "Configurations.ini";
 	  string arg3 = "Commands.ini";
